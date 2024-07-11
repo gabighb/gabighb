@@ -1,7 +1,5 @@
-Hello Devs !!
-<!--
-**gabighb/gabighb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 💬 Inglês intermediário
+Hello Devs !! ✨
 - ⚡ Desenvolvimento Back-End | C# | POO | PHP | Web Asp.Net | Suporte Técnico
+- 💬 Inglês intermediário
 - 📫 https://www.linkedin.com/in/-gabrielacabral-/
--->
+
